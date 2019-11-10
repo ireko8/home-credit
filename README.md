@@ -20,10 +20,10 @@ requirement.txt: version of python packages
 setting: keras setting dir  
 
 # HARDWARE: (The following specs were used to create the original solution)
-Ubuntu 16.04 LTS (128 GB boot disk)
-CPU: Intel(R) Xeon(R) CPU E5462 @ 2.80GHz
-GPU: 1 x NVIDIA GTX1080
-Mem: 32GB
+Ubuntu 16.04 LTS (128 GB boot disk)  
+CPU: Intel(R) Xeon(R) CPU E5462 @ 2.80GHz  
+GPU: 1 x NVIDIA GTX1080  
+Mem: 32GB  
 
 # SOFTWARE:
 Python 3.6.2
