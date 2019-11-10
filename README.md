@@ -19,7 +19,7 @@ src : code to generate DAE features from ONODERA's LB804 features.
 requirement.txt: version of python packages  
 setting: keras setting dir  
 
-# HARDWARE: (The following specs were used to create the original solution)
+# HARDWARE:
 Ubuntu 16.04 LTS (128 GB boot disk)  
 CPU: Intel(R) Xeon(R) CPU E5462 @ 2.80GHz  
 GPU: 1 x NVIDIA GTX1080  
@@ -35,5 +35,5 @@ nvidia drivers v.390.48
 0. put ONODERA's LB804 features in src/input.
 1. run run.sh (e.g. command "bash run.sh")
 
-You can generate *.ftr file in the "src/output/"
+You can generate *.ftr file in the "src/output/"  
 Format type is feather.
